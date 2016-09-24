@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.qf.widget.FlowLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#f00"
+    tools:context="com.qf.demo1_flowlayout.MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="夏洛特烦恼"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="夏洛特烦恼夏洛特烦恼夏洛特烦恼"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="夏洛"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="夏洛恼"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="洛特烦恼"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/shape_textview"
+        android:text="夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼夏洛特烦恼"/>
+
+
+
+</com.qf.widget.FlowLayout>
